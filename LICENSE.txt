@@ -1,6 +1,8 @@
-This course is copyright The University of Edinburgh and Alisdair Tullo.
+This course is copyright The University of Edinburgh.
 
 It is released under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License:
+
+Example images are distributed under other licenses, see the file attribution.txt
 
 https://creativecommons.org/licenses/by-sa/4.0/
 
@@ -23,3 +25,4 @@ Under the following terms:
     ShareAlike - If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
     No additional restrictions - You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
