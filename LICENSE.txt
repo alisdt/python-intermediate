@@ -1,8 +1,8 @@
 This course is copyright The University of Edinburgh.
 
-It is released under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License:
+Example images are distributed under their own licenses, see the file attribution.txt in images.zip
 
-Example images are distributed under other licenses, see the file attribution.txt
+It is released under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License:
 
 https://creativecommons.org/licenses/by-sa/4.0/
 
